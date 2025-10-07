@@ -1,0 +1,157 @@
+16 — Возрождение легенды! / The revival of the legend!
+Друзья, мы наконец готовы рассказать о том, над чем работали последние месяцы. Читайте в подробностях! / Friends, we are finally ready to share what we've been working on for the past few months. Read on for all the details!
+
+🔥 VIDAR STEALER v2.0 — Возрождение легенды! 🔥
+
+Друзья, мы наконец готовы рассказать о том, над чем работали последние месяцы.
+После долгого и непростого периода мы полностью обновили продукт. Не просто апдейт — это новая эра.
+
+💡 Что изменилось внутри:
+
+*️⃣ Переписали весь софт с C++ на C — это дало колоссальный прирост стабильности и скорости.
+*️⃣ Реализованы уникальные appBound методы, которые не встречаются в паблике.
+*️⃣ Добавлен автоматический морфер, благодаря которому каждая сборка теперь уникальна.
+*️⃣ Встроена скрытая система отчёта ошибок — мы можем проводить дебаг в реальном времени, без вмешательства пользователя.
+
+🚀 Что это даёт пользователям:
+
+*️⃣Полностью новый софт, не детектируемый антивирусами.
+*️⃣Многопоточность работы и отправки
+*️⃣Высокая скорость работы и защита от ботов.
+*️⃣Стабильный сбор данных без крашей и ошибок.
+*️⃣Возможность переключать две разные системы инжектирования в память онлайн, без ребилда — при необходимости одна подменяет другую.
+
+❗️ Уникальная система многопоточности позволяет максимально эффективно использовать ресурсы многоядерных процессоров. Она выполняет задачи по сбору данных в параллельных потоках, что значительно ускоряет процесс. Но главное — мы реализовали многопоточную отправку файлов, благодаря чему ускорена не только обработка и сбор логов, но и их передача.
+
+Цена остаётся прежней — $300, с 2018 года. Мы стараемся максимально долго сохранять её без изменений, при этом качество сервиса и продукта остаётся на самом высоком уровне.
+
+🧠 Что в разработке прямо сейчас:
+
+Новый современный дизайн проекта, который скоро станет доступен всем.
+Перенос на новый сервер — мощный, быстрый и надёжный:
+
+-> AMD EPYC 9654 (3.7GHz, 96 Cores) ×2
+-> DDR5 4800MHz 64GB SAMSUNG ECC RDIMM ×24
+-> Kingston SEDC3000ME 15.36TB ×6
+-> Samsung 980 PRO M.2 500GB ×2
+
+🔥 Немного о нас и о пути:
+
+Мы с вами с 2018 года.
+Всегда ставили во главу угла качество и стабильность.
+
+Да, был непростой период — сложная разработка, переделки…
+Но мы не сдались. Мы нашли в себе силы всё переписать, улучшить и перезапустить под новые условия рынка.
+
+Теперь VIDAR v2.0 — это новое дыхание, новая сила и новый уровень технологий.
+Проект буквально восстал, как феникс.
+Все прошлые обновления — просто разминка перед тем, что мы сделали сейчас.
+
+💬 Мы благодарим всех, кто остался с нами и поддерживал на протяжении пути.
+Скоро вы увидите, насколько шаг вперёд сделали.
+VIDAR v2.0 — это уже здесь.
+
+И это только начало. ⚡️
+
+❗️ А теперь технологический стек
+
+✅ Чистый C (C99) — без C++ Runtime, STL и exceptions
+✅ Custom минималистичный CRT — полная независимость от системных библиотек
+✅ NT API — прямой доступ к ядру Windows, обход хуков антивирусов
+
+🖥 Производительность:
+
+⚡️ +30-50% производительность за счет NT API
+📦 -60% размер бинарного файла (без зависимостей от Runtime)
+🎯 Адаптивные алгоритмы под быстрые и медленные ПК
+
+Совместимость:
+
+🌐 Windows XP → Windows 11 (32/64 bit)
+❌ Нет зависимостей от Runtime DLL
+✅ Работает на любой системе "из коробки"
+
+Архитектура:
+
+🧩 Модульная структура — легко расширять и поддерживать
+🔒 Рантайм-обфускация OLLVM — защита от реверс-инжиниринга
+🛡 Минимальная поверхность атаки — меньше перехватов антивирусами
+
+---
+
+🔥 VIDAR STEALER v2.0 — The Revival of a Legend! 🔥
+
+Friends, we are finally ready to tell you what we’ve been working on for the past few months. Read the details!
+
+After a long and difficult period, we’ve completely overhauled the product. Not just an update — this is a new era.
+
+💡 What changed under the hood:
+
+*️⃣ We rewrote the entire software from C++ to C — this delivered a colossal increase in stability and speed.
+*️⃣ Implemented unique appBound methods that aren’t found in the public domain.
+*️⃣ Added an automatic morpher, so every build is now unique.
+*️⃣ Built-in hidden error reporting system — we can debug in real time without user intervention.
+
+🚀 What this gives users:
+
+*️⃣ A completely new product, undetectable by antiviruses.
+*️⃣ Multithreaded operation and upload capabilities.
+*️⃣ High processing speed and anti-bot protections.
+*️⃣ Stable data collection without crashes or errors.
+*️⃣ Ability to switch between two different in-memory injection systems online without a rebuild — one can replace the other when needed.
+
+❗️ The unique multithreading system allows extremely efficient use of multi-core processors. It performs data-collection tasks in parallel threads, greatly speeding up the process. Most importantly — we implemented multithreaded file uploads, which accelerates not only log collection and processing but also their transfer.
+
+Price remains the same — $300 since 2018. We strive to keep it unchanged for as long as possible while maintaining the highest level of product and service quality.
+
+🧠 What’s in development right now:
+
+A new modern project design that will be available to everyone soon.
+Migration to a new server — powerful, fast, and reliable:
+
+-> AMD EPYC 9654 (3.7GHz, 96 Cores) ×2
+-> DDR5 4800MHz 64GB SAMSUNG ECC RDIMM ×24
+-> Kingston SEDC3000ME 15.36TB ×6
+-> Samsung 980 PRO M.2 500GB ×2
+
+🔥 A bit about us and our journey:
+
+We’ve been with you since 2018.
+We’ve always prioritized quality and stability.
+
+Yes, there was a difficult period — complex development, reworks…
+But we didn’t give up. We found the strength to rewrite, improve, and relaunch under new market conditions.
+
+Now VIDAR v2.0 is a new breath, new power, and a new level of technology.
+The project literally rose like a phoenix.
+All previous updates were just warm-ups compared to what we’ve done now.
+
+💬 We thank everyone who stayed with us and supported us along the way.
+You’ll soon see how big a step forward this is.
+VIDAR v2.0 is here.
+
+And this is only the beginning. ⚡️
+
+❗️ Technology stack
+
+✅ Pure C (C99) — no C++ runtime, STL, or exceptions
+✅ Custom minimalist CRT — complete independence from system libraries
+✅ NT API — direct access to Windows kernel, bypassing antivirus hooks
+
+🖥 Performance:
+
+⚡️ +30–50% performance thanks to NT API
+📦 −60% binary size (no runtime dependencies)
+🎯 Adaptive algorithms for fast and slow PCs
+
+Compatibility:
+
+🌐 Windows XP → Windows 11 (32/64 bit)
+❌ No runtime DLL dependencies
+✅ Works on any system “out of the box”
+
+Architecture:
+
+🧩 Modular structure — easy to extend and maintain
+🔒 Runtime obfuscation OLLVM — protection against reverse engineering
+🛡 Minimal attack surface — fewer interceptions by antiviruses 
