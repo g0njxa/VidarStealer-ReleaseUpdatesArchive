@@ -1,0 +1,13 @@
+16.2 — внеплановое обновление / unscheduled update
+
+- добавили фейк окно, при запуске чистого билда (снимается криптом) обязательно криптуйтесь. 📌
+- улучшили граббер кошельков.
+- добавили сбор новых веб расширений в браузере EDGE.➕
+- оптимизировали работу личных прокладочных серверов.🌐
+
+----
+
+- Added a fake window. When running a clean build (removed by crypto), be sure to encrypt. 📌
+- Wallet grabber protection.
+- Added a build of new website extensions in the EDGE browser.➕
+- Optimized the operation of personal backdoor servers.🌐 
